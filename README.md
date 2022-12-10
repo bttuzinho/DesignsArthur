@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on digital plataform coding
 - 📫 How to reach me arthur.hp2018@gmail.com
 
-$ npm i github-user-repo-card
 import { GithubCard } from "github-user-repo-card";
 
 <GithubCard name="bttuzinho" type="repo" repository="bttuzinho_" widht={500} height={150} />
